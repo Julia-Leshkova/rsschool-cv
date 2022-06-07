@@ -1,5 +1,3 @@
-# rsschool-נוח‏לו
----------
 ## Julia Leshkova
 ---------
 ### Contacts:
