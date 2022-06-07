@@ -1,0 +1,23 @@
+ h1 {
+        color: #cc0066;
+      }
+      h2 {
+        color: blue;
+      }
+      h3 {
+        color: green;
+      }
+      .block1 {
+        margin-left: 2%;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 20px;
+      }
+      .block2 {
+        margin-left: 2%;
+      }
+      .block3 {
+        margin-left: 2%;
+        font-style: italic;
+        font-size: 20px;
+      }
