@@ -40,5 +40,5 @@ else:
 * SkillFactory "QAP".
 ----------
 ### Language:
-English level - À1.
+English level - A1.
 I try to learn English using the Duolingo platform, YouTube video lessons.
