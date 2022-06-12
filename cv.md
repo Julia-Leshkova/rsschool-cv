@@ -1,6 +1,4 @@
 ## Julia Leshkova
----------
-## Julia Leshkova
 ----------
 ### About me:
 I work in the field of communications and communication, I communicate a lot with different people, I like to find an approach to them, take into account their needs, solve their problems.
