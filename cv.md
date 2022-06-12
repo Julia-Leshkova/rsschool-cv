@@ -5,6 +5,7 @@ I work in the field of communications and communication, I communicate a lot wit
 I study and practice in the field of graphic design, create vector illustrations, do retouching, I am fond of programming, I like to solve complex problems, find ways out of extraordinary situations.
 Whatever business I undertake, be sure that I will complete it with full dedication, efficiently, reliably and as quickly as possible. This is my feature.
 I strive to develop further, gain new knowledge and skills. I am mastering the profession of a Frontend developer, I hope to become an experienced specialist.
+
 ----------
 ### Skills:
 * HTML, CSS
@@ -12,6 +13,7 @@ I strive to develop further, gain new knowledge and skills. I am mastering the p
 * Git, GitHub
 * Adobe Photoshop, Illustrator
 * VSCode, PyCharm. Anaconda
+
 ----------
 ### Code Example:
 '''Python
@@ -31,19 +33,23 @@ if n > 3:
 else:
     print("The amount payable is", sum(visitors.values()), "rubles.")
 '''
+
 ----------
 ### Education:
-University:
+#### University:
 * Baikal State University, specialty "Finance and Credit"
-Courses:
+
+#### Courses:
 * HTML Academy
 * SkillFactory "Python for work"
 * Stepik "Python: basics and application"
 * SkillFactory "QAP"
+
 ----------
 ### Language:
 English level - A1.
 I try to learn English using the Duolingo platform, YouTube video lessons.
+
 ---------
 ### Contacts:
 Discord: Julia L.#4963
