@@ -1,19 +1,17 @@
 ## Julia Leshkova
----------
-### Contacts:
-Discord: Julia L.#4963
-Phone: +79095350707
-E-mail: nljg29@gmail.com
-Telegram: @jullesh
 ----------
 ### About me:
-I want to become a front-end developer. I strive to develop, gain new knowledge, communicate with people, solve interesting problems. I like to find extraordinary ways out of difficult situations. I learn quickly and willingly.    
+I work in the field of communications and communication, I communicate a lot with different people, I like to find an approach to them, take into account their needs, solve their problems.
+I study and practice in the field of graphic design, create vector illustrations, do retouching, I am fond of programming, I like to solve complex problems, find ways out of extraordinary situations.
+Whatever business I undertake, be sure that I will complete it with full dedication, efficiently, reliably and as quickly as possible. This is my feature.
+I strive to develop further, gain new knowledge and skills. I am mastering the profession of a Frontend developer, I hope to become an experienced specialist.
 ----------
 ### Skills:
-* HTML
-* CSS 
-* Git
-* Python
+* HTML, CSS
+* JavaScript Basics 
+* Git, GitHub
+* Adobe Photoshop, Illustrator
+* VSCode, PyCharm. Anaconda
 ----------
 ### Code Example:
 '''Python
@@ -35,10 +33,20 @@ else:
 '''
 ----------
 ### Education:
-* Successfully completed online courses:
-* Stepik "Python: basics and application".
-* SkillFactory "QAP".
+University:
+* Baikal State University, specialty "Finance and Credit"
+Courses:
+* HTML Academy
+* SkillFactory "Python for work"
+* Stepik "Python: basics and application"
+* SkillFactory "QAP"
 ----------
 ### Language:
 English level - A1.
 I try to learn English using the Duolingo platform, YouTube video lessons.
+---------
+### Contacts:
+Discord: Julia L.#4963
+Phone: +79095350707
+E-mail: nljg29@gmail.com
+Telegram: @jullesh
