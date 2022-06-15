@@ -28,11 +28,6 @@ nav a {
   color: #f0f8ff;
   text-decoration: none;
 }
-.subtitle {
-  font-size: 22px;
-  color: #483d8b;
-  font-weight: 900;
-}
 h1 {
   color: #7b68ee;
 }
@@ -63,18 +58,12 @@ ul  {
   margin-top: -0.5px;
 }
 .block1 {
-  margin-left: 5%;
-  font-weight: bold;
-  font-style: italic;
-  font-size: 20px;
+  font-size: 22px;
+  color: #483d8b;
+  font-weight: 900;
 }
 .block2 {
   margin-left: 5%;
-}
-.block3 {
-  margin-left: 5%;
-  font-style: italic;
-  font-size: 20px;
 }
 .footer-cv {
   background: #afa6e4;
