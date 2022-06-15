@@ -21,24 +21,26 @@ nav li {
 }
 nav a {
   display: block;
-  padding-left: 74px;
+  padding-left: 58px;
   line-height: normal;
   letter-spacing: normal;
   font-size: 14px;
   color: #f0f8ff;
   text-decoration: none;
 }
+.subtitle {
+  font-size: 22px;
+  color: #483d8b;
+  font-weight: 900;
+}
 h1 {
   color: #7b68ee;
 }
 h2 {
-  color: #483d8b;
-}
-h3 {
   color: #6a5acd;
   margin-bottom: -1px;
  }
-h5 {
+h3 {
   margin-bottom: -1px;
  }
 p  {
